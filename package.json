@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmq-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellotomfan/rabbitmq-test.git"
+  },
+  "author": "helltomfan@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellotomfan/rabbitmq-test/issues"
+  },
+  "homepage": "https://github.com/hellotomfan/rabbitmq-test#readme",
+  "dependencies": {
+    "amqplib": "^0.4.2",
+    "lodash": "^4.17.10"
+  }
+}
